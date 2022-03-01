@@ -1,5 +1,4 @@
 # a-guide-to-slither.io-the-most-simple-game-ever
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
